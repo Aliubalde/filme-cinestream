@@ -1,0 +1,6 @@
+{
+  "name": "CineStream Admin",
+  "description": "Painel administrativo de streaming com autenticação de donos, catálogo de filmes e cadastro com upload de capas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
